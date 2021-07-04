@@ -18,7 +18,7 @@ Contact me on [twitter] or by [email].
 
 
 [projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
+[resume]: /resume
 [twitter]: https://twitter.com/AreTillery
 [email]: mailto:contact@tillery.fyi
 [about]: /blog/about
