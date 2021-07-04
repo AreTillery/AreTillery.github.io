@@ -21,4 +21,4 @@ Contact me on [twitter] or by [email].
 [resume]: /resume
 [twitter]: https://twitter.com/AreTillery
 [email]: mailto:contact@tillery.fyi
-[about]: /blog/about
+[about]: /blog/updating-bio/
