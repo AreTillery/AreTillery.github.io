@@ -11,8 +11,6 @@ These days, I run a Professional Training team.
 
 Want my life story? It's in my [about] page.
 
-For more check out my academic & professional [resume].
-
 Contact me on [twitter] or by [email].
 
 
