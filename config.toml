@@ -22,7 +22,9 @@ theme = "hugo-sustain"
   Email         = "tillery@tillery.fyi"
   Twitter       = "AreTillery"
   LinkedIn      = "AreTillery"
-  RSS           = "/blog/index.xml"
+
+[markup.goldmark.renderer]
+unsafe= true
 
 ## Main Menu
 #[[menu.main]]
