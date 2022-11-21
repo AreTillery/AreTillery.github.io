@@ -13,4 +13,4 @@ After building that team to be self-sufficient, and leaving it in good hands, Ti
 Tillery has a particular love for formal methods (coming from their maths background) and threat modeling (coming from their analysis background), and will gladly proselytize the use of threat modeling as a foundational security tool for any development team.
 
 If you made it this far, here's a photo of Sophie von Sophington, Tillery's late corgi, hard at work.
-![A corgi lying on a couch. In front of her is an open laptop.](img/sophie.jpeg)
+![A corgi lying on a couch. In front of her is an open laptop.](/img/sophie.jpeg)
