@@ -1,7 +1,7 @@
 ---
 ---
 
-I'm **Tillery**.
+I'm **Tillery**. 
 
 I used to do things, now I teach people to do them better.
 
